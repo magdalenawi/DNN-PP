@@ -10,5 +10,6 @@ This repository contains the implementation of the model proposed in `DNN-PP: A 
 ## Usage
 
 ### Datasets
+Six benchmark datasets (http://moleculenet.ai/datasets-1) are utilized in this work.
 
 ### Training
