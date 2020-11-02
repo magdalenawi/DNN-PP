@@ -19,3 +19,7 @@ Open the folder "core".
 In order to train and test the model, you can use:
 
     python train_and_test.py
+
+## Acknowledgments
+
+The paper is under review.
