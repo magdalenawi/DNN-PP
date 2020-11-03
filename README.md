@@ -4,6 +4,7 @@
 This repository contains the implementation of the model proposed in `DNN-PP: A Novel Deep Neural Network Approach and its Applicability in Drug-related Property Prediction` for molecular properties prediction.
 
 This is a PyTorch implementation.
+This code is still work in progress and is intended for research purposes.
 
 ## Dependencies
 
